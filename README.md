@@ -23,6 +23,7 @@ go to HOME directory
     vim .zshenv
     alias number="_PATH_TO_ldap-get-phone-number/phone_number.sh"
     
-restart terminal
+restart current shell
 
+    exec zsh
     number akalmyko
