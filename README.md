@@ -13,9 +13,6 @@ you can run it with/without argument
     ./phone_number.sh akalmyko
     ./phone_number.sh
     
-    
-add this script to your .zshenv file
-
 copy ldap-get-phone-number path
 
     pwd
